@@ -2,7 +2,10 @@
 
 #### Here is my documentation on my journey in as a newbie data analyst ☺ 🖥 📊.
 
-data-visualization
+[project overview](#Project-overview
+
+
+
 
 ### Project title: introduction to excel & basic excel functions(Numbers)
 
@@ -20,3 +23,8 @@ microsoft excel for data analysis [download here](https://www.microsoft.com)
 ### Data visualization
 
 [Excel Functions 1 - Numbers(AutoRecovered).xlsx](https://github.com/user-attachments/files/17398537/Excel.Functions.1.-.Numbers.AutoRecovered.xlsx)
+
+|table|table2|
+|-----|------|
+|mary |pelumi|
+
