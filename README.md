@@ -2,7 +2,9 @@
 
 #### Here is my documentation on my journey in as a newbie data analyst ☺ 🖥 📊.
 
-[project overview](#Project-overview
+[project overview](#Project-overview)
+
+[Data visualisation](#Datavisualisation)
 
 
 
@@ -19,6 +21,12 @@ Data source was provided by incubator hub data analysis instructor in xslx forma
 
 ### Tools 
 microsoft excel for data analysis [download here](https://www.microsoft.com)
+
+
+###data visualisation
+[Excel Functions 1 - Numbers(AutoRecovered).xlsx](https://github.com/user-attachments/files/17399178/Excel.Functions.1.-.Numbers.AutoRecovered.xlsx)
+
+
 
 ### Data visualization
 
