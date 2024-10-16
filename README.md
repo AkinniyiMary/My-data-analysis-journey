@@ -10,12 +10,11 @@ these functions include;SUM,AVG,MAX,MIN,COUNT,COUNTA,LARGE&SMALL(for specificity
 
 ### Data sources
 
-Data source was provided by incubator hub data analysis instructor in xsls format.
+Data source was provided by incubator hub data analysis instructor in xslx format.
 
 ### Tools 
 microsoft excel for data analysis [download here](https://www.microsoft.com)
 
-
 ### Data visualization
 
-
+[Excel Functions 1 - Numbers(AutoRecovered).xlsx](https://github.com/user-attachments/files/17398537/Excel.Functions.1.-.Numbers.AutoRecovered.xlsx)
