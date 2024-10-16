@@ -14,3 +14,7 @@ Data source was provided by incubator hub data analysis instructor in xsls forma
 
 ### Tools 
 microsoft excel for data analysis [download here](https://www.microsoft.com)
+
+
+### Data visualization
+
