@@ -2,6 +2,8 @@
 
 #### Here is my documentation on my journey in as a newbie data analyst ☺ 🖥 📊.
 
+data-visualization
+
 ### Project title: introduction to excel & basic excel functions(Numbers)
 
 ### Project overview
